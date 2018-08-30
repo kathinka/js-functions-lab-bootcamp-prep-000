@@ -1,12 +1,15 @@
 // write your code below!
-
+let name = string;
+let holiday = string;
+let holidays = string;
+let days = int;
 
 function happyHolidays(){
   return ("Happy holidays!");
 }
 
 function happyHolidaysTo(name){
-  return("Happy holidays, ${string}!");
+  return("Happy holidays, ${name}!");
 }
 
 
