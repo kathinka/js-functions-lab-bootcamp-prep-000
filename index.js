@@ -1,6 +1,5 @@
 // write your code below!
-let name = '';
-let days = 0;
+
 
 function happyHolidays(){
   return ("Happy Holidays!");
